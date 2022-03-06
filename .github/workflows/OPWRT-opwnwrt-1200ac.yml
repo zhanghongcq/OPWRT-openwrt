@@ -1466,7 +1466,6 @@ jobs:
           # libselinux tools
           #
           # end of libselinux tools
-
           CONFIG_PACKAGE_iwinfo=y
           CONFIG_PACKAGE_jshn=y
           CONFIG_PACKAGE_libjson-script=y
